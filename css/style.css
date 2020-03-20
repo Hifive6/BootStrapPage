@@ -24,6 +24,11 @@
     color: whitesmoke;
 }
 
+.card-header {
+    text-transform: uppercase;
+    text-shadow: 3px 5px black;
+}
+
 .imgSize {
     height: 159px;
 }
