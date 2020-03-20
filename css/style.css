@@ -1,0 +1,29 @@
+
+
+.brandImgSize {
+    width: 50px;
+}
+
+.navbar {
+    background-color: rgb(56, 83, 122);
+    border-radius: 0px 0px 2px 2px;
+}
+
+ .jumbotron {
+    border-top: 6px solid rgba(225, 228, 233, 0.966);
+    border-radius: 8px;
+    background-color: rgb(56, 83, 122);
+} 
+
+.rowMargin {
+    margin-bottom: 10px;
+}
+
+.card-body, .card-header {
+    background-color: rgb(56, 83, 122);
+    color: whitesmoke;
+}
+
+.imgSize {
+    height: 159px;
+}
